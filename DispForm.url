@@ -1,0 +1,8 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[InternetShortcut]
+URL=javascript:(function(url){%20window.location%20=%20window.location.protocol+'//'+window.location.host%20+%20window.location.pathname.replace(/\/[^\/]+$/,'/Forms/DispForm.aspx?ID='+_spPageContextInfo.pageItemId);})();
+IDList=
+HotKey=0
+[Bookmarklet]
+ExtendedURL=javascript:(function(url){%20window.location%20=%20window.location.protocol+'//'+window.location.host%20+%20window.location.pathname.replace(/\/[^\/]+$/,'/Forms/DispForm.aspx?ID='+_spPageContextInfo.pageItemId);})();

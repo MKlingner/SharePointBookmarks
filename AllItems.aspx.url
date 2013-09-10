@@ -1,0 +1,6 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[InternetShortcut]
+URL=javascript:(function(url){%20url%20=%20window.location.protocol+'//'+window.location.host+window.location.pathname.substr(0,%20window.location.pathname.lastIndexOf("/"));%20window.location=url+'/forms/allitems.aspx';%20})();
+IDList=
+HotKey=0

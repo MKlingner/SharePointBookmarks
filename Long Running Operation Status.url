@@ -1,0 +1,8 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[InternetShortcut]
+URL=javascript:(function(url){%20url%20=%20window.location.protocol+'//'+window.location.host;%20if(typeof%20_spPageContextInfo%20!=%20'undefined')%20{%20url%20+=%20_spPageContextInfo.siteServerRelativeUrl.replace(/\/$/,'');%20}%20window.location=url+'/Long%20Running%20Operation%20Status';%20})();
+IDList=
+HotKey=0
+[Bookmarklet]
+ExtendedURL=javascript:(function(url){%20url%20=%20window.location.protocol+'//'+window.location.host;%20if(typeof%20_spPageContextInfo%20!=%20'undefined')%20{%20url%20+=%20_spPageContextInfo.siteServerRelativeUrl.replace(/\/$/,'');%20}%20window.location=url+'/Long%20Running%20Operation%20Status';%20})();

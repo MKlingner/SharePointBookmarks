@@ -1,0 +1,6 @@
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[InternetShortcut]
+URL=javascript:(function(url){ url = window.location.protocol+'//'+window.location.host; if(typeof _spPageContextInfo != 'undefined') { url = _spPageContextInfo.webServerRelativeUrl; } window.location=url+'/_layouts/settings.aspx'; })();
+IDList=
+HotKey=0

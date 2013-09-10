@@ -1,0 +1,8 @@
+[DEFAULT]
+BASEURL=https://intern.itacs.de/teams/solutions/SolutionsRetreat2010/Forms/AllItems.aspx
+[{000214A0-0000-0000-C000-000000000046}]
+Prop3=19,15
+[InternetShortcut]
+URL=javascript:(function(loc,url){if(typeof ctx != 'undefined'){ url = ctx.listUrlDir; } else{ url = loc.pathname } CoreInvoke('NavigateHttpFolder',loc.protocol+'//'+loc.host+url, '_blank'); })(window.location)
+IDList=
+HotKey=0

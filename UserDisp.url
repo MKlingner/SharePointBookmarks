@@ -4,5 +4,3 @@ Prop3=19,15
 URL=javascript:(function(url,userID){%20url%20=%20window.location.protocol+'//'+window.location.host;%20userID=1;%20if(typeof%20_spPageContextInfo%20!=%20'undefined')%20{%20url%20%20=%20_spPageContextInfo.webServerRelativeUrl.replace(/\/$/,'');%20userID=_spPageContextInfo.userId;%20}%20window.location=url+'/_layouts/userdisp.aspx?force=true&ID='+userID;%20})();
 IDList=
 HotKey=0
-[Bookmarklet]
-ExtendedURL=javascript:(function(url,userID){%20url%20=%20window.location.protocol+'//'+window.location.host;%20userID=1;%20if(typeof%20_spPageContextInfo%20!=%20'undefined')%20{%20url%20%20=%20_spPageContextInfo.webServerRelativeUrl.replace(/\/$/,'');%20userID=_spPageContextInfo.userId;%20}%20window.location=url+'/_layouts/userdisp.aspx?force=true&ID='+userID;%20})();
